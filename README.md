@@ -1,4 +1,4 @@
-# Factor-Based Portfolio Optimization
+# Fama French Factor Investing Model
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
@@ -28,8 +28,8 @@ This tool extends traditional Modern Portfolio Theory by incorporating the Fama-
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/factor-portfolio-optimization.git
-cd factor-portfolio-optimization
+git clone https://github.com/yourusername/fff_investing_model.git
+cd fff_investing_model
 
 # Install required packages
 pip install numpy pandas matplotlib yfinance scipy statsmodels pandas-datareader
